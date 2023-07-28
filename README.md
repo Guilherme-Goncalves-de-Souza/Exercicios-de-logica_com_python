@@ -1,2 +1,12 @@
-# Exercicios-de-logica_com_python
-Exercícios de lógica com Python
+# Exercícios de lógica com Python
+
+Exercícios para treinar <b> <em> Python </b> </em> e também <b> <em> lógica de programação </b> </em>!
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Em progresso...
