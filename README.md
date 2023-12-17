@@ -8,7 +8,5 @@ A lista de exercícios está no PDF!
 <br>
 <br>
 <br>
-<br>
-<br>
 
-# Em progresso (92/100)...
+# Desafios concluídos! (100/100)
